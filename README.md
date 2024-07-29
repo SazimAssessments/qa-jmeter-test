@@ -1,4 +1,4 @@
-# API Testing Assessment
+# JMeter Testing Assessment
 
 This repository contains a simple Express.js application for Section 2 Part B of the assessment.
 
